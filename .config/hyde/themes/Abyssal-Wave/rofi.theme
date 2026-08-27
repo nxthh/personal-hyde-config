@@ -1,0 +1,17 @@
+$HOME/.config/rofi/theme.rasi
+
+* {
+    main-bg:            #121212;
+    main-fg:            #c8c8c8;
+
+    main-br:            #2f3545;   /* subtle border, slightly bluish-gray */
+    main-ex:            #8a7bd0;   /* muted accent (soft purple) */
+
+    select-bg:          #1f1f1f;   /* slightly raised from bg */
+    select-fg:          #ffffff;   /* clear contrast on selection */
+
+    separatorcolor:     #2a2a2a;   /* faint separators */
+    border-color:       #2a2a2a;
+}
+
+
